@@ -6,7 +6,7 @@
 ![](Diagramme/Domäne%202.png)
 
 ## Aktivitätsdiagramm
-![](Diagramme/Aktivitätsdiagramm.png)
+![](Diagramme/Aktivitätsdiagram.png)
 
 ## Klassendiagramm
 ![](Diagramme/Klassendiagramm.png)
