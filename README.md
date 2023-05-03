@@ -2,6 +2,8 @@
 
 ## Use-Case-Diagramm
 ![](Diagramme/UseCase-Diagramm.png)
+![](Diagramme/Dömane.png)
+![](Diagramme/Domäne202.png)
 
 ## Aktivitätsdiagramm
 ![](Diagramme/Aktivitätsdiagramm.png)
