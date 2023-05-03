@@ -1,10 +1,10 @@
 # Objektorientiertes Modellieren
 
-Use-Case-Diagramm
+## Use-Case-Diagramm
 ![](Diagramme/UseCase-Diagramm.png)
 
-Aktivitätsdiagramm
+## Aktivitätsdiagramm
 ![](Diagramme/Aktivitätsdiagramm.png)
 
-Klassendiagramm
+## Klassendiagramm
 ![](Diagramme/Klassendiagramm.png)
