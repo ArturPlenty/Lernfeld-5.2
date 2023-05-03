@@ -1,2 +1,10 @@
-# Lernfeld-5.2
-Objektorientiertes Modellieren
+# Objektorientiertes Modellieren
+
+Use-Case-Diagramm
+![](Diagramme/UseCase-Diagramm.pdf)
+
+Aktivitätsdiagramm
+![](Diagramme/Aktivitätsdiagramm.pdf)
+
+Klassendiagramm
+![](Klassendiagramm.pdf)
